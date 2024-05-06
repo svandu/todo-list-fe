@@ -17,6 +17,28 @@
 - Edit the name of a to-do list.
 - Delete a to-do list.
 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone git@github.com:svandu/todo-list-fe.git
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd todo-list-fe
+
+3. Install dependencies:
+
+    ```bash
+    yarn install
+
+4. To start the server, run the following command:
+
+    ```bash
+    yarn run dev
+
 ## 🔨 Technologies
 
 ### Languages
